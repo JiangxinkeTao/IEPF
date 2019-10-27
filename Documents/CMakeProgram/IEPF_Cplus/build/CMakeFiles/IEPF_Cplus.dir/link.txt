@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/IEPF_Cplus.dir/src/test.cpp.o  -o IEPF_Cplus  -L/home/tomas/Documents/CMakeProgram/IEPF_Cplus/lib -Wl,-rpath,/home/tomas/Documents/CMakeProgram/IEPF_Cplus/lib -Wl,-Bstatic -ldispoline liblibsrc.a -Wl,-Bdynamic 

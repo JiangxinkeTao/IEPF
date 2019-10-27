@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibsrc.a  CMakeFiles/libsrc.dir/src/test.cpp.o CMakeFiles/libsrc.dir/src/vehiclemodel.cpp.o
+/usr/bin/ranlib liblibsrc.a
